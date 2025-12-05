@@ -1,5 +1,5 @@
 <h1 align="left">About me</h1>
-**`Desenvolvedor java web`** **`Desenvolvedor FullStack`**
+**`Desenvolvedor java web`** 
 
 ###
 
