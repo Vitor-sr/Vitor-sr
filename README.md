@@ -1,8 +1,8 @@
 <h1 align="left">About me</h1>
-**`Desenvolvedor java web`** 
+
 
 ###
-
+**`Desenvolvedor FullStack`**
 <p align="left">- Cursando Engenharia de Software – UCB (4/8)<br>- Estagiário no TRE-DF<br>- Mas que programador, sou alguém que gosta de resolver problemas e criar soluções<br>- Focado em back-end com Java, Spring Boot <br>- Estudando também React</p>
 
 ###
