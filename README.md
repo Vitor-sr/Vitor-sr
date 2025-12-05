@@ -1,16 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=524&lines=Oi%2C+sou+Vitor+Hugo" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+GitHub+🚀" alt="Typing SVG">
   </a>
 </div>
 
+<h1>About me</h1>
 
 ###
 **`Desenvolvedor Java Web`** **`Desenvolvedor FullStack`**
 <p align="left">- Cursando Engenharia de Software – UCB (4/8)<br>- Estagiário no TRE-DF<br>- Mas que programador, sou alguém que gosta de resolver problemas e criar soluções<br>- Focado em back-end com Java, Spring Boot <br>- Estudando também React</p>
 
 ###
-
+<h3 align="left">Connect with me!</h3>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9B4DFF&color=9B4DFF)](mailto:vitorhsenatg@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9B4DFF&color=9B4DFF)](https://www.linkedin.com/in/vitor-hugo-sena-bb9795192/)
 
 
