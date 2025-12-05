@@ -17,7 +17,8 @@
   - Estudando também React e desenvolvimento FullStack
 </p>
 
-<hr style="border: 0; height: 0.5px; background: #3B82F6;">
+<hr style="border: 0; height: 0.2px; background: #3B82F6;">
+
 
 <h3 align="left">Connect with me!</h3>
 
