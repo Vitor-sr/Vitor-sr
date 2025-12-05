@@ -12,9 +12,7 @@
 <p align="left">
   - Cursando Engenharia de Software – UCB (4/8) <br>
   - Estagiário no TRE-DF <br>
-  - Mais que programador: gosto de resolver problemas e criar soluções reais <br>
   - Focado em Back-end com Java e Spring Boot <br>
-  - Estudando também React e desenvolvimento FullStack
 </p>
 
 <hr style="Border-bottom: 0; height: 0.2px; background: #3B82F6;">
