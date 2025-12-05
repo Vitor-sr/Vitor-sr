@@ -9,9 +9,10 @@
 ###
 **`Desenvolvedor Java Web`** **`Desenvolvedor FullStack`**
 <p align="left">- Cursando Engenharia de Software – UCB (4/8)<br>- Estagiário no TRE-DF<br>- Mas que programador, sou alguém que gosta de resolver problemas e criar soluções<br>- Focado em back-end com Java, Spring Boot <br>- Estudando também React</p>
-
 ###
 <h3 align="left">Connect with me!</h3>
+###
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9B4DFF&color=9B4DFF)](mailto:vitorhsenatg@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9B4DFF&color=9B4DFF)](https://www.linkedin.com/in/vitor-hugo-sena-bb9795192/)
 
 
