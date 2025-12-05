@@ -5,6 +5,7 @@
 <p align="left">- Cursando Engenharia de Software – UCB (4/8)<br>- Estagiário no TRE-DF<br>- Mas que programador, sou alguém que gosta de resolver problemas e criar soluções<br>- Focado em back-end com Java, Spring Boot <br>- Estudando também React</p>
 
 ###
+**`Desenvolvedor FullStack`**
 
 <div align="left">
   <a href="vitorhsenatg@gmail.com" target="_blank">
