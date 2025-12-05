@@ -56,7 +56,4 @@
 <hr style="border: 0; height: 0.5px; background: #3B82F6;">
 
 
-<img src="https://raw.githubusercontent.com/vitor-sr/vitor-sr/output/snake.svg" alt="Snake animation" />
-
-<hr style="border: 0; height: 0.5px; background: #3B82F6;">
 
