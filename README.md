@@ -7,7 +7,7 @@
 
 <h1 align="left">About me</h1>
 
-**`Desenvolvedor Java Web`** • **`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`** • **`Java`** • **`Spring Boot`** • **`SQL`** • **`Docker`**
 
 <p align="left">
   - Cursando Engenharia de Software – UCB (5/8) <br>
