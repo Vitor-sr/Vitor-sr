@@ -10,9 +10,9 @@
 **`Desenvolvedor Java Web`** • **`Desenvolvedor FullStack`**
 
 <p align="left">
-  - Cursando Engenharia de Software – UCB (4/8) <br>
+  - Cursando Engenharia de Software – UCB (5/8) <br>
   - Estagiário no TRE-DF <br>
-  - Focado em Back-end com Java e Spring Boot <br>
+  - Focado no Back-end com Java e Spring Boot <br>
 </p>
 
 <hr style="Border-bottom: 0; height: 0.2px; background: #3B82F6;">
@@ -39,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
